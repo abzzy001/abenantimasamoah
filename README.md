@@ -15,13 +15,13 @@ I'm a Healthcare Data Analyst and Business Intelligence Analyst with a unique bl
 
 I specialize in turning complex clinical and operational data into actionable insights — building interactive dashboards, running statistical analyses, and developing machine learning models that drive measurable improvements in service quality, patient outcomes, and operational efficiency.
 
-- 🔭 I'm currently working on **fairness-aware ML models for pediatric health screening** (NHANES data)
-- 🌱 I'm currently learning **advanced Tableau storytelling and statistical methods for BI**
+- 🔭 I recently worked on **fairness-aware ML models for pediatric health screening** (NHANES data)
+- 🌱 I'm currently learning ** Tableau storytelling and statistical methods for BI**
 - 👯 I'm looking to collaborate on **healthcare analytics, BI dashboards, and data-for-good projects**
 - 💬 Ask me about **healthcare data, pharmacy operations, or building dashboards non-technical stakeholders actually use**
-- ⚡ Fun fact: **I'm a licensed pharmacist who pivoted into data analytics — I bring clinical context to every dataset I touch**
+- ⚡ Fun fact: **I'm a licensed pharmacist who pivoted into data analytics — I bring clinical context to every dataset I touch** **I'm a great cook, a former restaurant owner in Accra 🇬🇭, and a master planner — I bring the same prep, timing, and stakeholder instincts to data projects as I did to running a kitchen. 🍲📊**
 
-📚 Currently completing the **TripleTen Business Intelligence Analyst Bootcamp** and starting my **MBA at National Louis University** in April 2026.
+📚 Currently completing the **TripleTen Business Intelligence Analyst Bootcamp** and pursuing my **MBA at National Louis University**.
 
 ---
 
